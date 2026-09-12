@@ -1,4 +1,4 @@
-### Hey, I'm Josef 👋
+### Hey, I'm Joseff 👋
 
 I build things — client websites for small businesses, and my own side projects when a random idea won't leave me alone.
 
