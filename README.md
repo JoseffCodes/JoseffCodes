@@ -6,9 +6,8 @@ I build things — client websites for small businesses, and my own side project
 - 🧪 **Side projects** — data scraping/analysis, charting tools, and the occasional "why not" build (crash-themed animations, meme sites)
 - 🚀 Currently looking for my next role as a developer
 
-**Some things I've built:**
+**Most notable projects:**
 - [`lightning-storm`](https://github.com/JoseffCodes/lightning-storm) — self-directed case study on training an ML model to predict outcomes in a live casino game show from historical data; found real signal in some cases, but factor weightings rotated in cycles, making the edge hard to hold
 - [`VisualSites`](https://github.com/JoseffCodes/VisualSites) — portfolio site for my web design agency
-- **ZyneX Labs** — a full-stack e-commerce platform I built and run, live in production (proprietary, code kept private)
 
 Feel free to look around — always happy to talk about a project or an opportunity.
